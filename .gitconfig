@@ -1,0 +1,9 @@
+[user]
+	email = 1402806685@qq.com
+	name = zzq_229
+[credential]
+	helper = store
+
+
+[alias]
+	graph = log --all --graph --decorate --oneline
